@@ -5,8 +5,8 @@ C# cs go loader wpf
 you can see loader and how its working for youtube link :
 https://youtu.be/-DTDDENCIxk
 
-#TESTING LOADER
+# TESTING LOADER
 you can test the loader in bin folder (in DEBUG folder)
 
-#LOADER -_-
+# LOADER -_-
 https://youtu.be/-DTDDENCIxk
